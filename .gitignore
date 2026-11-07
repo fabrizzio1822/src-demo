@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+*-preview.png
+*-review.png
+asset-review.jpg
